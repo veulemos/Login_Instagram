@@ -4,6 +4,8 @@ Página de Log In do Instagram
 ### Desafio da DIO para construir a tela de login do Instagram
 #### Linguagens utilizadas no desenvolvimento: HTML, CSS (uso de flex-box) e JavaScript.
 
+## Lightmode:
+
 ![loginInstagram1](https://user-images.githubusercontent.com/22840897/166858240-e3ec68aa-fb7f-40c1-a420-9e9da1382723.png)
 
 -----------------------------------------------------------------
@@ -13,3 +15,8 @@ Página de Log In do Instagram
 -----------------------------------------------------------------
 
 ![loginInstagram3](https://user-images.githubusercontent.com/22840897/166858371-7c2e5fa5-ab2b-46a2-b108-5d223609566c.png)
+
+-----------------------------------------------------------------
+## Darkmode
+
+![loginInstagramDarkmode](https://user-images.githubusercontent.com/22840897/166859025-71d14db8-512b-4b0f-bc51-7456565e4521.png)

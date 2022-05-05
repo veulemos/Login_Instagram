@@ -7,8 +7,9 @@ Página de Log In do Instagram
 ![loginInstagram1](https://user-images.githubusercontent.com/22840897/166858240-e3ec68aa-fb7f-40c1-a420-9e9da1382723.png)
 
 -----------------------------------------------------------------
-! [Tela de Login Instagram 2](https://github.com/veulemos/Login_Instagram/blob/main/img/loginInstagram2.png)
+
+![loginInstagram2](https://user-images.githubusercontent.com/22840897/166858349-76b891a7-58f3-4567-acc9-a5ad59c4d85d.png)
 
 -----------------------------------------------------------------
 
-! [Tela de Login Instagram 3](https://github.com/veulemos/Login_Instagram/blob/main/img/loginInstagram3.png)
+![loginInstagram3](https://user-images.githubusercontent.com/22840897/166858371-7c2e5fa5-ab2b-46a2-b108-5d223609566c.png)

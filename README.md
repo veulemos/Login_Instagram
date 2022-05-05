@@ -17,6 +17,13 @@ Página de Log In do Instagram
 ![loginInstagram3](https://user-images.githubusercontent.com/22840897/166858371-7c2e5fa5-ab2b-46a2-b108-5d223609566c.png)
 
 -----------------------------------------------------------------
-## Darkmode
+## Darkmode:
 
 ![loginInstagramDarkmode](https://user-images.githubusercontent.com/22840897/166859025-71d14db8-512b-4b0f-bc51-7456565e4521.png)
+
+------------------------------------------------------------------
+## Responsive:
+
+![telaresponsiva](https://user-images.githubusercontent.com/22840897/166861555-a033addb-7e91-4ae7-a293-3716191b2f87.png)
+------------
+![telaresponsivadarkmode](https://user-images.githubusercontent.com/22840897/166861563-f7bb71fe-8b22-4bde-959d-f1c9dc2ccd5f.png)

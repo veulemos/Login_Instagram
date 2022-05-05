@@ -4,7 +4,7 @@ Página de Log In do Instagram
 ### Desafio da DIO para construir a tela de login do Instagram
 #### Linguagens utilizadas no desenvolvimento: HTML, CSS (uso de flex-box) e JavaScript.
 
-! [Tela de Login Instagram 1](https://github.com/veulemos/Login_Instagram/blob/main/img/loginInstagram1.png)
+! [[https://github.com/veulemos/Login_Instagram/blob/main/img/loginInstagram1.png|alt=Tela de Login Instagram 1]]
 
 -----------------------------------------------------------------
 ! [Tela de Login Instagram 2](https://github.com/veulemos/Login_Instagram/blob/main/img/loginInstagram2.png)
